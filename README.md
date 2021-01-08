@@ -1,4 +1,4 @@
-# ✨ Bibliográfia ✨
+# Bibliográfia:
 
 -  ⚡ Vinícius Medeiros;
 -  💻 Estudante de programação;

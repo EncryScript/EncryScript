@@ -21,3 +21,4 @@
 <p align="center">
   <a href="https://discordapp.com" target="blank"><img align="center" src="https://cdn.discordapp.com/attachments/690376327555055626/796963704473255936/discord_1.png" alt="- "E3cr1pt" 愛
 #1974" height="50" width="50"</a>
+</p>

@@ -20,6 +20,4 @@
 <a href="https://instagram.com/m.s.swindler" target="blank"><img align="center" src="https://media.discordapp.net/attachments/768926761844211753/792033941666004992/desconhecido.png?width=225&height=225" alt="0xKonrad" height="50" width="50"</a>
 </a>     
 </p>
-
-"假装痴呆症，但一无所知。:black_heart:" 
 <p align="center">

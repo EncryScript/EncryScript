@@ -1,7 +1,6 @@
 #                                                                      *E3cr1pt*
 
 #### Olá sou encrypt, um estudante iniciante de programação.
-
 #### Eu gosto bastante de procurar novos conhecimento e novas amizades!
   
 
